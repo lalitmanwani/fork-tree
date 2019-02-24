@@ -1,0 +1,21 @@
+NAME    :   LALIT MANWANI
+BNO     :   B00764797
+EMAIL 	:   lmanwan1@binghamton.edu
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Command line arguments are accepted as height as child 	 
+
+2. The program only accepts integer as input for height and children of
+   tree.
+
+3. The first command line argumet is height and the second is children no.
+
+4. Make sure to use make file before execution 
+
+5. Example Execution of program  height :-3 and child:-2 :- ./a 3 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
